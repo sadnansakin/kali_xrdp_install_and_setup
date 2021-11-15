@@ -6,4 +6,4 @@
 3. install android app - Remote Desktop ( Microsoft corporation)
 
 * for pc just restart the service by - sudo systemctl restart xrdp
-then logout ( know to local ip) 
+then logout ( know the local ip) 
